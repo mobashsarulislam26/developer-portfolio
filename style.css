@@ -45,3 +45,29 @@ padding-bottom: 150px;
     background-repeat: no-repeat;
     background-position:right;
 }
+.sigale-experience{
+    box-shadow:10px 10px 40px gray;
+    border-radius: 10px;
+    height: 60%;
+    background-color: white;
+}
+.experiences-area{
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position:left;
+
+}
+#full-stack{
+  border-left: 7px solid;
+    border-image:linear-gradient(lightSalmon,tomato);
+    border-image-slice: 1;
+}
+#full-stack1{
+    border-left: 7px solid;
+    border-image:linear-gradient(180deg, blue,cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+    font-size: 12px;
+}
